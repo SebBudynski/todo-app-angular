@@ -1,6 +1,8 @@
 # TodoAppAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
+This is my first project using Angular. It's a simple Todo application that I'm building to learn and practice Angular. I have previously built this project in Vanilla JS, and the original idea comes from FrontendMentor. The project is currently under construction.
+
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
 ## Development server
 
